@@ -1,215 +1,228 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=080B10&height=200&section=header&text=MAG%20%2F%2F%20BACKEND&fontSize=43&fontColor=38BDF8&fontAlignY=37&desc=SYSTEMS%20%7C%20GO%20%7C%20DEVELOPER%20TOOLS&descAlignY=61&descSize=15" width="100%" alt="Mag Backend Terminal"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=210&section=header&text=REDOPS%20%2F%2F%20MAG&fontSize=48&fontColor=FF3030&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%E2%80%A2%20GO%20%E2%80%A2%20SYSTEMS&descAlignY=62&descSize=14" width="100%" alt="RedOps terminal header"/>
 
 <br/>
 
-<img src="https://github.com/Magyt71.png" width="110" alt="Mag's GitHub avatar"/>
-
-<br/>
-
-<a href="https://github.com/Magyt71">
-<img src="https://img.shields.io/badge/GITHUB-MAGYT71-080B10?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-080B10?style=for-the-badge&logo=serverfault&logoColor=38BDF8" alt="Backend"/>
-<img src="https://img.shields.io/badge/LANGUAGE-GO-080B10?style=for-the-badge&logo=go&logoColor=FF3030" alt="Go"/>
+<img src="https://img.shields.io/badge/USER-MAGYT71-111111?style=for-the-badge&labelColor=111111&color=FF3030&logo=github&logoColor=white" alt="GitHub user"/>
+<img src="https://img.shields.io/badge/PRIMARY-GO-111111?style=for-the-badge&labelColor=111111&color=FF3030&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/DOMAIN-BACKEND-111111?style=for-the-badge&labelColor=111111&color=FF3030&logo=serverfault&logoColor=white" alt="Backend"/>
 
 <br/><br/>
 
-**`BUILD. DEBUG. UNDERSTAND. REPEAT.`**
+**`BUILD SYSTEMS. AUTOMATE WORK. UNDERSTAND EVERYTHING.`**
 
 </div>
 
 ---
 
-<div align="center">
+## `root@magyt71:~# whoami`
 
-`[ SYSTEM BOOT ]` ━━━━━━━━━━━━━━ `100%`
-
-</div>
-
-## `01 /root/about`
-
-```bash
-$ whoami
-Mag
-
-$ cat profile.txt
-Backend-focused developer
-Building practical software with Go
-Exploring systems, networking, automation and AI
-
-$ cat goals.txt
-Backend Engineering -> Cloud Engineering
+```text
+USER        : Mag
+ROLE        : Backend Developer in progress
+PRIMARY     : Go
+INTERESTS   : Systems / Networking / Developer Tools
+DIRECTION   : Backend Engineering -> Cloud Engineering
+MINDSET     : Understand first. Build second. Improve always.
 ```
 
-I'm Mag, a developer focused on learning **backend engineering through real projects**.
+I'm Mag, a developer focused on **backend engineering with Go**.
 
-I enjoy building developer tools, APIs, automation, and systems-oriented applications. I care about understanding the code I write, solving problems independently, and improving my engineering fundamentals with every project.
+I enjoy building practical developer tools, automation, desktop applications, and systems-oriented projects. My goal is to develop strong fundamentals and understand the engineering behind the software I create.
 
-- 🔧 **Primary focus:** Go and backend development
-- 🖥️ **Interests:** Systems, networking, CLI tools, automation
-- 🧠 **Exploring:** Practical AI and RAG applications
-- 🎯 **Long-term direction:** Backend → Cloud Engineering
+```bash
+$ echo "I don't just want code that works."
+I want to understand why it works.
+```
 
-> I want to understand the system, not just make it run.
-
-## `02 /root/tech-stack`
+## `root@magyt71:~# cat /etc/tech-stack`
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=go,python,js" alt="Programming languages"/>
-
-**TOOLS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
-
-**APPLICATION DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=vue,html,css" alt="Frontend technologies"/>
+![Go](https://img.shields.io/badge/Go-FF3030?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF3030)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=FF3030)
+![Vue](https://img.shields.io/badge/Vue-171717?style=flat-square&logo=vuedotjs&logoColor=FF3030)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=FF3030)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FF3030)
+![Wails](https://img.shields.io/badge/Wails-171717?style=flat-square&logo=wails&logoColor=FF3030)
+![Flet](https://img.shields.io/badge/Flet-171717?style=flat-square&logo=python&logoColor=FF3030)
 
 </div>
 
-<sub>Technologies are included based on tools I've used or explored. I'm continuing to develop my backend and systems skills.</sub>
+> Stack shown reflects technologies I've used or explored. I'm continuously improving my skills and fundamentals.
 
----
+## `root@magyt71:~# tree ./projects`
 
-## `03 /root/active-projects`
+```text
+projects/
+|
+|-- [01] forge-cli/
+|   |-- Purpose: Project scaffolding
+|   |-- Language: Go
+|   `-- Status: IN PROGRESS
+|
+|-- [02] steam-judge/
+|   |-- Purpose: Multiplayer game voting
+|   |-- Backend: Go
+|   `-- Status: IN PROGRESS
+|
+|-- [03] personal-cloud/
+|   |-- Purpose: Personal cloud services
+|   `-- Status: PLANNED
+|
+|-- [04] rag-assistant/
+|   |-- Purpose: Retrieval-augmented AI
+|   `-- Status: PLANNED
+|
+|-- [05] repo-archaeologist/
+|   |-- Purpose: Repository investigation
+|   `-- Status: PLANNED
+|
+|-- [06] process-detective/
+|   |-- Purpose: Process exploration
+|   `-- Status: PLANNED
+|
+`-- [07] ai-video-editor/
+    |-- Purpose: AI + media automation
+    `-- Status: LONG-TERM
+```
 
-### 🔴 `01. Forge CLI`
+## `root@magyt71:~# ./forge status`
 
-**A project generator for developers.**
+### `[01] Forge CLI`
 
-A Go CLI that generates projects from predefined technology stacks through commands such as `forge create`.
+**A project generator built for developers.**
 
-- Command and flag handling
-- Project templates and file generation
-- Cobra for CLI commands
-- Bubble Tea for a richer terminal experience
+A command-line tool designed to generate projects from predefined technology stacks using commands such as `forge create`.
 
-`STATUS: IN PROGRESS`
+```text
+FOCUS    : CLI architecture / Commands / Flags
+TOOLS    : Go / Cobra / Bubble Tea
+GOAL     : Generate projects through a simple workflow
+STATUS   : IN PROGRESS
+```
 
-### 🔴 `02. Steam Judge`
+### `[02] Steam Judge`
 
-**A desktop app for group game decisions.**
+**Stop wasting time deciding what to play.**
 
-Users authenticate through Steam, join rooms, vote on games, and launch the winning game.
+A desktop app concept where users sign in through Steam, join rooms, vote on games, and launch the winning game.
 
-- Go backend and API
-- Steam OpenID authentication
-- Room management and voting
-- Flet desktop interface
+```text
+BACKEND  : Go
+DESKTOP  : Flet
+FOCUS    : Steam OpenID / APIs / Rooms / Voting
+STATUS   : IN PROGRESS
+```
 
-`STATUS: IN PROGRESS`
+### `[03] Personal Cloud`
 
-### 🔴 `03. Smart TechStack Planner`
+**Build a cloud system and understand what powers it.**
 
-**Explore and discover technology stacks.**
+A personal cloud project exploring file management, storage, authentication, and backend services.
 
-A Go and Vue project using AI to recommend technology stacks and help explore suitable tools for development.
+```text
+FOCUS    : APIs / File Storage / Authentication
+FUTURE   : Deployment / Cloud Infrastructure
+STATUS   : PLANNED
+```
 
-- Go API backend
-- Vue 3 interface
-- OpenRouter integration
-- Technology discovery and recommendations
+### `[04] RAG AI Assistant`
 
-`STATUS: PROJECT DEVELOPED PREVIOUSLY`
+**Retrieve knowledge before generating answers.**
 
----
+An AI assistant project designed to explore the complete retrieval-augmented generation pipeline.
 
-## `04 /root/completed`
+```text
+FOCUS    : Ingestion / Chunking / Embeddings / Retrieval
+GOAL     : Understand the RAG pipeline end to end
+STATUS   : PLANNED
+```
 
-### 🟢 GitHub Finder
+### `[05] Repo Archaeologist`
 
-A desktop application for exploring GitHub users, repositories, and programming-language information.
+**Investigate a codebase beyond its surface.**
 
-**Stack:** Go · Wails · Vue
+A developer tool concept for exploring repository structures, Git history, and useful information about unfamiliar projects.
 
-[↗ OPEN REPOSITORY](https://github.com/Magyt71/GitHub-Finder)
+```text
+FOCUS    : Git Metadata / Repository Analysis / CLI
+STATUS   : PLANNED
+```
 
-### 🟢 Organizer
+## `root@magyt71:~# git log --oneline --projects`
+
+### `GitHub Finder`
+
+A desktop application that looks up GitHub users and displays repositories and programming-language information in a structured interface.
+
+```text
+STACK  : Go / Wails / Vue
+STATUS : COMPLETED
+```
+
+[ `OPEN REPOSITORY` ](https://github.com/Magyt71/GitHub-Finder)
+
+### `Organizer`
 
 A utility application for organizing files on a device.
 
-**Focus:** File management and desktop automation.
-
-[↗ OPEN REPOSITORY](https://github.com/Magyt71/Orginzer)
-
-### 🟡 Multiplayer Whiteboard
-
-A collaborative whiteboard project associated with group development.
-
-[↗ OPEN REPOSITORY](https://github.com/Magyt71/Multiplayer-WhiteBored)
-
----
-
-## `05 /root/roadmap`
-
-Projects planned for future development, ordered around my backend and systems learning goals.
-
-### ⚙️ Developer Tools
-
-| Project | Purpose |
-|---|---|
-| **Repo Archaeologist** | Investigate repository structure and Git history |
-| **Process Detective** | Explore running processes and operating-system concepts |
-| **Command Vault** | Organize and reuse useful commands |
-| **Clipboard Memory** | Explore clipboard history and productivity workflows |
-| **Forge CLI — extensions** | Expand project templates and developer tooling |
-
-### 🌐 Systems & Networking
-
-| Project | Purpose |
-|---|---|
-| **Personal Cloud** | Build personal cloud and file-storage services |
-| **Dead Drop** | Explore a lightweight file-sharing or message-transfer tool |
-| **Steam Judge — extensions** | Improve room management and game-launch workflows |
-
-### 🤖 AI & Automation
-
-| Project | Purpose |
-|---|---|
-| **RAG AI Assistant** | Build retrieval-augmented question answering |
-| **AI Video Editor** | Explore AI-assisted media processing and automation |
-| **Forge CLI — AI tooling concept** | Explore developer tooling around AI-assisted workflows |
-
-### 🧩 Practice & Experimental Projects
-
-| Project | Purpose |
-|---|---|
-| **Wordle in Go** | Practice strings, slices, randomness, and game logic |
-| **Commit Pet** | Create a playful companion around development activity |
-| **Memory Palace** | Experiment with organizing and retrieving information |
-
-<sub>Roadmap items are ideas or planned extensions, not completed features. Their scope and order may change as I gain experience.</sub>
-
----
-
-## `06 /root/engineering-principles`
-
 ```text
-[01] Understand before abstracting.
-[02] Build a working core before adding complexity.
-[03] Write code I can explain.
-[04] Debug to understand, not just to patch.
-[05] Prefer practical solutions over unnecessary complexity.
-[06] Improve through building, reviewing, and rebuilding.
+FOCUS  : File Organization / Desktop Utility
+STATUS : COMPLETED
 ```
 
-## `07 /root/github-stats`
+[ `OPEN REPOSITORY` ](https://github.com/Magyt71/Orginzer)
+
+### `Multiplayer Whiteboard`
+
+A collaborative project from my development work.
+
+```text
+FOCUS  : Collaborative Application
+STATUS : REPOSITORY AVAILABLE
+```
+
+[ `OPEN REPOSITORY` ](https://github.com/Magyt71/Multiplayer-WhiteBored)
+
+## `root@magyt71:~# cat ./roadmap.txt`
+
+| Project | Main focus | Status |
+|---|---|---|
+| **Command Vault** | Developer productivity | Planned |
+| **Clipboard Memory** | Clipboard workflows | Planned |
+| **Commit Pet** | Development activity | Planned |
+| **Memory Palace** | Information organization | Planned |
+| **Dead Drop** | Lightweight sharing tool | Planned |
+| **Wordle in Go** | Strings, slices, randomness | Planned |
+| **AI Video Editor** | AI and media automation | Long-term |
+
+*Project ideas and timelines may evolve as I gain experience.*
+
+## `root@magyt71:~# cat ./engineering.conf`
+
+```text
+[01] Understand the problem before writing code.
+[02] Build a working core before adding complexity.
+[03] Prefer maintainable code over unnecessary abstractions.
+[04] Learn from debugging instead of hiding errors.
+[05] Build useful tools and explain how they work.
+```
+
+## `root@magyt71:~# ./github-stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Magyt71&show_icons=true&hide_border=true&bg_color=080B10&title_color=38BDF8&icon_color=FF3030&text_color=E5E7EB" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Magyt71&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magyt71&layout=compact&hide_border=true&bg_color=080B10&title_color=38BDF8&text_color=E5E7EB" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magyt71&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" height="165" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Magyt71&hide_border=true&background=080B10&ring=38BDF8&fire=FF3030&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Magyt71&hide_border=true&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -217,12 +230,16 @@ Projects planned for future development, ordered around my backend and systems l
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=080B10&height=100&section=footer&text=PROCESS%20CONTINUES...&fontSize=22&fontColor=FF3030" width="100%" alt="Process continues"/>
+```text
+CONNECTION CLOSED.
+PROCESS CONTINUES.
+```
 
-**`BUILD`** 🔴 **`LEARN`** 🔵 **`IMPROVE`**
+**`BUILD // DEBUG // LEARN // REPEAT`**
 
-[GitHub: Magyt71](https://github.com/Magyt71)
+[ `GITHUB.COM/MAGYT71` ](https://github.com/Magyt71)
 
-<sub>Backend Engineering · Go · Systems · Automation</sub>
+<sub>Designed for Backend Engineering · Black × Red × White</sub>
 
 </div>
+
