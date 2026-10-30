@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Backend Developer · Go · Systems & Developer Tools</strong><br/>
-  <sub>Building practical software, understanding how it works, and getting better by shipping real projects.</sub>
+  <sub>Building practical software, understanding how it works, and improving one project at a time.</sub>
 </p>
 
 <p align="center">
@@ -19,7 +19,9 @@
 <p align="center">
   <a href="https://github.com/Magyt71">GitHub</a>
   ·
-  <a href="https://github.com/Magyt71?tab=repositories">All repositories</a>
+  <a href="https://github.com/Magyt71?tab=repositories">Repositories</a>
+  ·
+  <a href="https://discord.com">Discord: exemag</a>
 </p>
 
 ---
@@ -41,11 +43,9 @@ Become an independent backend engineer:
 design it, build it, debug it, understand it.
 ```
 
-I'm focused on becoming a strong backend engineer, with Go as my primary language. I enjoy projects that teach me how software works under the hood: command-line tools, APIs, databases, networking, and automation.
+I'm focused on becoming a strong backend engineer, with **Go as my primary language**. I enjoy building command-line tools, backend services, database-driven applications, and projects that explore how software works under the hood.
 
-I learn by building. I care about understanding the implementation, writing the core logic myself, and improving through debugging—not just getting something to work.
-
-**Current direction:** Go backend development, practical systems knowledge, and projects that solve real problems.
+I learn by building: understanding the design, writing the important logic, debugging real problems, and improving the implementation—not just making something run.
 
 ---
 
@@ -55,51 +55,50 @@ I learn by building. I care about understanding the implementation, writing the 
   <img src="https://skillicons.dev/icons?i=go,python,postgres,sqlite,git,github,linux,docker,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
-| Area | Technologies |
+| Area | Current tools and focus |
 |---|---|
 | Primary language | **Go** |
 | Also use | Python |
-| Backend | REST APIs, HTTP, CLI development |
-| Databases | SQL, PostgreSQL, SQLite |
-| Go ecosystem | Cobra, Bubble Tea, Wails, Echo (exploring) |
-| Tools & environment | Git, GitHub, VS Code, Windows, Linux (learning) |
+| Backend | HTTP, REST APIs, CLI development |
+| Databases | SQL, PostgreSQL, SQLite / libSQL |
+| Go ecosystem | Cobra, Bubble Tea, Gin, Echo |
+| Workflow | Git, GitHub, VS Code |
 
-<sub>This reflects my current tools and learning direction—not a claim of expert-level proficiency in every item.</sub>
+<sub>Technologies reflect my current experience and learning path, not a claim of expert-level proficiency in every tool.</sub>
 
 ---
 
-## `03 / CURRENTLY BUILDING`
+## `03 / CURRENT PROJECT`
 
 ### Project Jumper
+<sub><strong>IN PROGRESS · GO CLI</strong></sub>
 
-<sub><strong>ACTIVE PROJECT · GO CLI</strong></sub>
+A command-line tool for saving project locations and quickly jumping between development folders—like having `/home` or `/warp` commands for your workspace.
 
-A lightweight command-line tool for saving project locations and jumping between them—like having `/home` or `/warp` commands for your development folders.
-
-- Go CLI built with **Cobra**.
+- Go CLI using **Cobra**.
 - Exploring embedded **libSQL / Turso** storage.
-- Designed around commands such as `pj add` and `pj jump`.
-- Focus: CLI architecture, command design, persistence, and clean program flow.
+- Commands include `pj add` and `pj jump`.
+- Learning focus: command structure, persistence, application flow, and maintainable CLI design.
 
-[Repository](https://github.com/Magyt71/Project-Jumper)
+[View repository](https://github.com/Magyt71/Project-Jumper)
 
 ---
 
 ## `04 / COMPLETED PROJECTS`
 
-Projects I've built and reached a working completion point. Some are learning projects rather than production-ready products.
+Projects that have reached a working completion point. These include learning projects and are not all intended to be production-grade software.
 
 ### GitHub Finder
 **Go · Wails · Vue**
 
-A desktop application that looks up GitHub users and presents their repositories and programming-language information.
+A desktop application that looks up GitHub users and displays their repositories and programming-language information.
 
 [View repository](https://github.com/Magyt71/GitHub-Finder)
 
 ### Organizer
 **Go · Gio · fsnotify**
 
-A desktop file organizer that watches selected folders and automatically sorts files by extension. Includes editable rules, duplicate-safe naming, undo, notifications, and startup options.
+A desktop file organizer that watches selected folders and sorts files by extension, with configurable rules and practical file-management features.
 
 [View repository](https://github.com/Magyt71/Orginzer)
 
@@ -111,7 +110,7 @@ A collaborative drawing application with user authentication, rooms, and real-ti
 [View repository](https://github.com/Magyt71/Multiplayer-WhiteBored)
 
 ### Wordle CLI
-**Go · Terminal Application**
+**Go · Terminal**
 
 A terminal-based word guessing game built to practice Go fundamentals, input handling, slices, and repeated-letter evaluation.
 
@@ -119,70 +118,83 @@ A terminal-based word guessing game built to practice Go fundamentals, input han
 
 ---
 
-## `05 / NEXT ON THE ROADMAP`
+## `05 / PLANNED PROJECTS`
 
-The projects I intend to focus on after my current work. The order may change as I learn.
+Ideas in my longer-term development roadmap. This is a direction, not a promise that every project is currently underway.
 
 ### Forge CLI
 **Go · Cobra · Bubble Tea**
 
-A project scaffolding CLI that generates new projects from reusable templates. A deeper exploration of command design, terminal UX, filesystem operations, and maintainable Go architecture.
+A project scaffolding CLI that creates new projects from reusable templates. Focus: command design, terminal UX, filesystem operations, and clean Go architecture.
 
-### RAG Assistant
+### RAG AI Assistant
 **Go · LLM APIs · Retrieval**
 
-A practical retrieval-augmented assistant that can search a knowledge source and use relevant context to answer questions.
+A practical retrieval-augmented assistant that searches a knowledge source and uses relevant context to answer questions.
 
 ### Personal Cloud
 **Go · Backend · Storage · Networking**
 
-A personal file-storage service exploring uploads, downloads, authentication, metadata, and the fundamentals behind cloud storage.
+A personal file-storage service exploring uploads, downloads, authentication, metadata, and the foundations of cloud storage.
 
 ### AI Video Editor
 **Go · Media Processing · AI APIs**
 
-A longer-term and more ambitious project exploring video-processing workflows and AI-assisted editing. This is a future challenge, not an immediate project.
+A larger project exploring video-processing workflows and AI-assisted editing.
+
+### Repo Archaeologist
+**Go · Git · Repository Analysis**
+
+A tool for exploring a codebase's history, structure, and evolution to uncover useful context about a repository.
+
+### Process Detective
+**Go · Operating Systems · Process Inspection**
+
+A system utility for inspecting running processes and understanding resource usage and process relationships.
+
+### Command Vault
+**Go · CLI · Local Storage**
+
+A searchable personal vault for useful terminal commands, snippets, and notes.
+
+### Clipboard Memory
+**Go · System Integration · Search**
+
+A clipboard-history utility for keeping and searching previously copied text.
+
+### Commit Pet
+**Go · Git · Automation**
+
+A small companion that reacts to Git activity and turns commits and development progress into a playful feedback loop.
+
+### Memory Palace
+**Go · Search · Local Data**
+
+A personal knowledge tool for storing, organizing, and retrieving notes and useful information.
 
 ---
 
 ## `06 / MAYBE — EXPERIMENTS & IDEAS`
 
-Ideas worth exploring. These are **not active projects or commitments**.
+Interesting ideas that may become experiments later. They are not active commitments.
 
-<details>
-<summary><strong>Developer Tools & CLI</strong></summary>
-
-- **Project Jumper** — jump between saved project directories and open tools. *(Promoted to active project.)*
-- **Where Space Went** — a filesystem disk-usage analyzer that explains where storage is going.
-- **Command Ghost** — search terminal history and recover commands you used before.
-
-</details>
-
-<details>
-<summary><strong>Backend & Systems Experiments</strong></summary>
-
+- **Where Space Went** — a filesystem disk-usage analyzer that helps explain where storage is being used.
+- **Command Ghost** — search terminal history and recover commands used in the past.
 - **Webhook Replay Engine** — a Go + PostgreSQL experiment for storing, retrying, and replaying webhook deliveries. Archive after the experiment.
-- **DB Benchmark Lab** — benchmark database operations and compare query patterns, indexes, and performance trade-offs.
-
-</details>
-
-<details>
-<summary><strong>Small / Creative Tools</strong></summary>
-
-- **Name Goblin** — a small name-generation tool for project names, identifiers, or creative ideas.
-
-</details>
+- **DB Benchmark Lab** — compare database operations, query patterns, indexes, and performance trade-offs.
+- **Name Goblin** — a small name-generation tool for project names and identifiers.
+- **Dead Drop** — a small privacy-minded file or message handoff experiment.
 
 ---
 
 ## `07 / PAUSED`
 
 ### Steam Judge
-**Go · Flet · Steam OpenID**
+**Flet · Steam OpenID · Go API**
 
 A group game-voting desktop app concept: users sign in with Steam, vote on games, and launch the winning choice.
 
-Currently paused. I may return to it when I feel like continuing the desktop-app direction.
+Currently paused; it may be revisited later.
 
 ---
 
@@ -199,7 +211,20 @@ Currently paused. I may return to it when I feel like continuing the desktop-app
 
 ---
 
-## `09 / GITHUB ACTIVITY`
+## `09 / CONTACT`
+
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-exemag-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord exemag" />
+  </a>
+  <a href="https://github.com/Magyt71">
+    <img src="https://img.shields.io/badge/GitHub-Magyt71-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Magyt71" />
+  </a>
+</p>
+
+---
+
+## `10 / GITHUB ACTIVITY`
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=magyt71&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169182732%3Fv%3D4" alt="GitHub statistics" />
