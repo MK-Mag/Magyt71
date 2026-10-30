@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=magyt71&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169182732%3Fv%3D4" alt="Magyt71 — Backend Developer" />
+  <img src="https://www.gitskins.com/api/section/hero?username=MK-Mag&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169182732%3Fv%3D4" alt="MK-Mag — Backend Developer" />
 </p>
 
-<h1 align="center">Magyt71</h1>
+<h1 align="center">MK-Mag</h1>
 
 <p align="center">
   <strong>Backend Developer · Go · Systems & Developer Tools</strong><br/>
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Magyt71">GitHub</a>
+  <a href="https://github.com/MK-Mag">GitHub</a>
   ·
-  <a href="https://github.com/Magyt71?tab=repositories">Repositories</a>
+  <a href="https://github.com/MK-Mag?tab=repositories">Repositories</a>
   ·
   <a href="https://discord.com">Discord: exemag</a>
 </p>
@@ -30,7 +30,7 @@
 
 ```text
 $ whoami
-Mag
+MK-Mag
 
 $ focus
 Backend Engineering
@@ -80,7 +80,7 @@ A command-line tool for saving project locations and quickly jumping between dev
 - Commands include `pj add` and `pj jump`.
 - Learning focus: command structure, persistence, application flow, and maintainable CLI design.
 
-[View repository](https://github.com/Magyt71/Project-Jumper)
+[View repository](https://github.com/MK-Mag/Project-Jumper)
 
 ---
 
@@ -93,28 +93,28 @@ Projects that have reached a working completion point. These include learning pr
 
 A desktop application that looks up GitHub users and displays their repositories and programming-language information.
 
-[View repository](https://github.com/Magyt71/GitHub-Finder)
+[View repository](https://github.com/MK-Mag/GitHub-Finder)
 
 ### Organizer
 **Go · Gio · fsnotify**
 
 A desktop file organizer that watches selected folders and sorts files by extension, with configurable rules and practical file-management features.
 
-[View repository](https://github.com/Magyt71/Orginzer)
+[View repository](https://github.com/MK-Mag/Orginzer)
 
 ### Multiplayer Whiteboard
 **Go · WebSockets · Vue · SQLite**
 
 A collaborative drawing application with user authentication, rooms, and real-time drawing updates.
 
-[View repository](https://github.com/Magyt71/Multiplayer-WhiteBored)
+[View repository](https://github.com/MK-Mag/Multiplayer-WhiteBored)
 
 ### Wordle CLI
 **Go · Terminal**
 
 A terminal-based word guessing game built to practice Go fundamentals, input handling, slices, and repeated-letter evaluation.
 
-[View repository](https://github.com/Magyt71/Wordle_Cli_game)
+[View repository](https://github.com/MK-Mag/Wordle_Cli_game)
 
 ---
 
@@ -217,8 +217,8 @@ Currently paused; it may be revisited later.
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-exemag-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord exemag" />
   </a>
-  <a href="https://github.com/Magyt71">
-    <img src="https://img.shields.io/badge/GitHub-Magyt71-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Magyt71" />
+  <a href="https://github.com/MK-Mag">
+    <img src="https://img.shields.io/badge/GitHub-MK-Mag-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MK-Mag" />
   </a>
 </p>
 
@@ -227,11 +227,11 @@ Currently paused; it may be revisited later.
 ## `10 / GITHUB ACTIVITY`
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=magyt71&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169182732%3Fv%3D4" alt="GitHub statistics" />
+  <img src="https://www.gitskins.com/api/section/stats?username=MK-Mag&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F169182732%3Fv%3D4" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=magyt71&theme=neon" alt="GitHub contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=MK-Mag&theme=neon" alt="GitHub contribution activity" />
 </p>
 
 ---
